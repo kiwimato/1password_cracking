@@ -2,6 +2,8 @@
 
 ### ID
 
+5BSLBTKR
+
 ### Members
 
 groozavu
@@ -42,3 +44,4 @@ When you guys released the second hints, we decided to focus on the hashes that 
 We consider ourselves lucky to crack it in this time, since the keyspace is so huge, and I would like to note that the key here was that we had all the precise details. Including the wordlist from which the passwords were generated. Right at the beginning of the process, when I didn't read up all the docs, I thought the wordlist wasn't provided. Therefore, I tried to recreate it using lists of english words, which proved to be humongous, and it didn't provide a guarantee that it includes all the words. This proves how difficult it is to crack this kind of hash in a real world case scenario.
 
 We gathered a lot of experience in the process and we want to thank 1Password for the challenge, and their commitement for improving the current password practices.
+
