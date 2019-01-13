@@ -49,4 +49,5 @@ We consider ourselves lucky to crack it in this time, since the keyspace is so h
 We gained a lot of experience in the process and we want to thank 1Password for the challenge, and their commitement for improving the current password practices.
 
 Cheerio,
+
 groozavu, ninjaslikecheese
