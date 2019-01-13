@@ -6,8 +6,7 @@
 
 ### Members
 
-groozavu
-ninjaslikecheese
+groozavu,ninjaslikecheese
 
 ### Hardware
 
